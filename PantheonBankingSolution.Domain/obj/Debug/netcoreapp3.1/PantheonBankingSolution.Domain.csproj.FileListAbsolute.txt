@@ -1,0 +1,9 @@
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Domain\bin\Debug\netcoreapp3.1\PantheonBankingSolution.Domain.deps.json
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Domain\bin\Debug\netcoreapp3.1\PantheonBankingSolution.Domain.dll
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Domain\bin\Debug\netcoreapp3.1\PantheonBankingSolution.Domain.pdb
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Domain\obj\Debug\netcoreapp3.1\PantheonBankingSolution.Domain.AssemblyInfoInputs.cache
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Domain\obj\Debug\netcoreapp3.1\PantheonBankingSolution.Domain.AssemblyInfo.cs
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Domain\obj\Debug\netcoreapp3.1\PantheonBankingSolution.Domain.csproj.CoreCompileInputs.cache
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Domain\obj\Debug\netcoreapp3.1\PantheonBankingSolution.Domain.dll
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Domain\obj\Debug\netcoreapp3.1\PantheonBankingSolution.Domain.pdb
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Domain\obj\Debug\netcoreapp3.1\PantheonBankingSolution.Domain.csprojAssemblyReference.cache

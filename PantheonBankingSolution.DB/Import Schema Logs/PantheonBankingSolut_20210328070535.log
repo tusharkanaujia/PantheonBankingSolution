@@ -1,0 +1,84 @@
+28/03/2021 20:05:35	This log contains information about the import schema operation into project 'PantheonBankingSolution.DB' on computer 'IMPOSSIBLEISNOT' by user 'Tushar Kanaujia'.
+28/03/2021 20:05:35	Import of database schema has started.
+28/03/2021 20:05:39	Gathering database credentials
+28/03/2021 20:05:39	Gathering database options
+28/03/2021 20:05:39	Gathering users
+28/03/2021 20:05:39	Gathering roles
+28/03/2021 20:05:39	Gathering application roles
+28/03/2021 20:05:39	Gathering role memberships
+28/03/2021 20:05:39	Gathering filegroups
+28/03/2021 20:05:39	Gathering full-text catalogs
+28/03/2021 20:05:39	Gathering assemblies
+28/03/2021 20:05:39	Gathering certificates
+28/03/2021 20:05:39	Gathering asymmetric keys
+28/03/2021 20:05:39	Gathering symmetric keys
+28/03/2021 20:05:39	Gathering encrypted symmetric keys
+28/03/2021 20:05:39	Gathering schemas
+28/03/2021 20:05:39	Gathering XML schema collections
+28/03/2021 20:05:39	Gathering user-defined data types
+28/03/2021 20:05:39	Gathering user-defined types
+28/03/2021 20:05:39	Gathering table types
+28/03/2021 20:05:39	Gathering unique keys for table types
+28/03/2021 20:05:39	Gathering primary keys for table types
+28/03/2021 20:05:39	Gathering indexes for table types
+28/03/2021 20:05:39	Gathering check constraints for table types
+28/03/2021 20:05:39	Gathering default constraints for table types
+28/03/2021 20:05:39	Gathering partition functions
+28/03/2021 20:05:39	Gathering partition schemes
+28/03/2021 20:05:39	Gathering functions
+28/03/2021 20:05:39	Gathering encrypted functions
+28/03/2021 20:05:39	Gathering aggregates
+28/03/2021 20:05:39	Gathering procedures
+28/03/2021 20:05:39	Gathering encrypted procedures
+28/03/2021 20:05:39	Gathering tables
+28/03/2021 20:05:39	Gathering primary keys
+28/03/2021 20:05:39	Gathering unique constraints
+28/03/2021 20:05:39	Gathering foreign keys
+28/03/2021 20:05:39	Gathering default constraints
+28/03/2021 20:05:39	Gathering check constraints
+28/03/2021 20:05:39	Gathering views
+28/03/2021 20:05:39	Gathering encrypted views
+28/03/2021 20:05:39	Gathering indexes
+28/03/2021 20:05:39	Gathering statistics
+28/03/2021 20:05:39	Gathering full-text index stoplists
+28/03/2021 20:05:39	Gathering search property lists
+28/03/2021 20:05:39	Gathering search properties
+28/03/2021 20:05:39	Gathering full-text indexes
+28/03/2021 20:05:39	Gathering column store indexes
+28/03/2021 20:05:39	Gathering spatial indexes
+28/03/2021 20:05:39	Gathering XML indexes
+28/03/2021 20:05:39	Gathering Selective XML indexes
+28/03/2021 20:05:39	Gathering encrypted triggers
+28/03/2021 20:05:39	Gathering triggers
+28/03/2021 20:05:39	Gathering encrypted and clr ddl triggers
+28/03/2021 20:05:39	Gathering ddl triggers
+28/03/2021 20:05:39	Gathering synonyms
+28/03/2021 20:05:39	Gathering defaults
+28/03/2021 20:05:39	Gathering data constraint uddt bindings
+28/03/2021 20:05:39	Gathering rules
+28/03/2021 20:05:39	Gathering data constraint uddt bindings
+28/03/2021 20:05:39	Gathering message types
+28/03/2021 20:05:39	Gathering queues
+28/03/2021 20:05:39	Gathering contracts
+28/03/2021 20:05:40	Gathering services
+28/03/2021 20:05:40	Gathering event notifications
+28/03/2021 20:05:40	Gathering remote service bindings
+28/03/2021 20:05:40	Gathering broker priorities
+28/03/2021 20:05:40	Gathering signatures
+28/03/2021 20:05:40	Gathering data compression options
+28/03/2021 20:05:40	Gathering sequence types
+28/03/2021 20:05:40	Gathering security policies
+28/03/2021 20:05:40	Gather column encryption keys
+28/03/2021 20:05:40	Gathering column master keys
+28/03/2021 20:05:40	Gathering external data sources
+28/03/2021 20:05:40	Gathering external file formats
+28/03/2021 20:05:40	Gathering external tables
+28/03/2021 20:05:40	Gathering extended properties
+28/03/2021 20:05:42	Gathering credentials
+28/03/2021 20:05:42	Gathering logins
+28/03/2021 20:05:42	Gathering server audits
+28/03/2021 20:05:42	Scanning project for duplicate elements
+28/03/2021 20:05:42	Finished duplicate element processing
+28/03/2021 20:05:42	Finished importing database.
+28/03/2021 20:05:42	A summary of the import was saved to the following location: D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.DB\Import Schema Logs\PantheonBankingSolut_20210328070535.log
+28/03/2021 20:05:42	Click Finish to continue...

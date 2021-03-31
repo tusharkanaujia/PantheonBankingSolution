@@ -1,0 +1,12 @@
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Persistance\bin\Debug\netcoreapp3.1\PantheonBankingSolution.Persistance.deps.json
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Persistance\bin\Debug\netcoreapp3.1\PantheonBankingSolution.Persistance.dll
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Persistance\bin\Debug\netcoreapp3.1\PantheonBankingSolution.Persistance.pdb
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Persistance\bin\Debug\netcoreapp3.1\PantheonBankingSolution.Domain.dll
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Persistance\bin\Debug\netcoreapp3.1\PantheonBankingSolution.Domain.pdb
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Persistance\obj\Debug\netcoreapp3.1\PantheonBankingSolution.Persistance.csprojAssemblyReference.cache
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Persistance\obj\Debug\netcoreapp3.1\PantheonBankingSolution.Persistance.AssemblyInfoInputs.cache
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Persistance\obj\Debug\netcoreapp3.1\PantheonBankingSolution.Persistance.AssemblyInfo.cs
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Persistance\obj\Debug\netcoreapp3.1\PantheonBankingSolution.Persistance.csproj.CoreCompileInputs.cache
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Persistance\obj\Debug\netcoreapp3.1\PantheonBankingSolution.Persistance.csproj.CopyComplete
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Persistance\obj\Debug\netcoreapp3.1\PantheonBankingSolution.Persistance.dll
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Persistance\obj\Debug\netcoreapp3.1\PantheonBankingSolution.Persistance.pdb

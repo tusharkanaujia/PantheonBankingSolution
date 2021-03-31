@@ -1,0 +1,14 @@
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Application\bin\Debug\netcoreapp3.1\PantheonBankingSolution.Application.deps.json
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Application\bin\Debug\netcoreapp3.1\PantheonBankingSolution.Application.dll
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Application\bin\Debug\netcoreapp3.1\PantheonBankingSolution.Application.pdb
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Application\bin\Debug\netcoreapp3.1\PantheonBankingSolution.Domain.dll
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Application\bin\Debug\netcoreapp3.1\PantheonBankingSolution.Persistance.dll
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Application\bin\Debug\netcoreapp3.1\PantheonBankingSolution.Domain.pdb
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Application\bin\Debug\netcoreapp3.1\PantheonBankingSolution.Persistance.pdb
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Application\obj\Debug\netcoreapp3.1\PantheonBankingSolution.Application.csprojAssemblyReference.cache
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Application\obj\Debug\netcoreapp3.1\PantheonBankingSolution.Application.AssemblyInfoInputs.cache
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Application\obj\Debug\netcoreapp3.1\PantheonBankingSolution.Application.AssemblyInfo.cs
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Application\obj\Debug\netcoreapp3.1\PantheonBankingSolution.Application.csproj.CoreCompileInputs.cache
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Application\obj\Debug\netcoreapp3.1\PantheonBankingSolution.Application.csproj.CopyComplete
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Application\obj\Debug\netcoreapp3.1\PantheonBankingSolution.Application.dll
+D:\Programming\CodingTest\PantheonBankingSolution\PantheonBankingSolution.Application\obj\Debug\netcoreapp3.1\PantheonBankingSolution.Application.pdb
